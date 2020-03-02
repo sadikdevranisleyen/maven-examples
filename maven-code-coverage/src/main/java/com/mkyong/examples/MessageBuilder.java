@@ -2,7 +2,8 @@ package com.mkyong.examples;
 
 public class MessageBuilder {
 
-    public String getMessage(String name) {
+   
+ private String getMessage(String name) {
 
         StringBuilder result = new StringBuilder();
 
